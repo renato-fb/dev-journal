@@ -1,0 +1,17 @@
+<== O quê foi feito hoje ==>
+
+* Subi uma versão de um site wordpress de frigorífico em inglês para hospedagem, configurei o user.ini correspondente e redirecionei o DNS
+ 
+* Fiz várias alterações que foram solicitadas no site de uma advogada, um total de 8 alterações
+
+* Finalizei os testes unitários de HATEOAS da minha API de livros e criei novos testes para validar o mapeador modelMapper na hora de transformar as entidades em DTOs
+
+* Me familiarizei mais com o Mockito 
+ 
+
+
+
+
+
+
+
