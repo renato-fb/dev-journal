@@ -1,0 +1,15 @@
+<== O quê foi feito hoje ==>
+ 
+* Comecei a montar um sistema de gestão de projetos com HTML, CSS, PHP e MySQL.
+ - Construi um sistema de login com PHP e MySQL.
+ - Montei um layout de login pra combinar com a identidade visual da empresa que eu estou fazendo o sistema para.
+
+* Me familiarizei mais com PHP
+ 
+
+
+
+
+
+
+
