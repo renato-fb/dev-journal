@@ -1,0 +1,12 @@
+<== O quê foi feito hoje ==>
+ 
+* Me familiarizei mais com mockito e JUnit 5 realizando diversos testes unitários na minha API em Spring Boot
+
+ 
+
+
+
+
+
+
+
