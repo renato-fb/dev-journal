@@ -1,0 +1,16 @@
+<== O quê foi feito hoje ==>
+ 
+* Me familiarizei mais ainda com mockito e JUnit 5 realizando diversos testes unitários na minha API em Spring Boot
+
+* Fiz alterações em um site institucional de uma firma de advogados
+
+* Refatorei o código de certas partes da minha API de livros para atender melhores práticas de código limpo
+
+ 
+
+
+
+
+
+
+
