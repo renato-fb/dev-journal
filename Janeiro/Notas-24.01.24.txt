@@ -1,0 +1,14 @@
+<== O quê foi feito hoje ==>
+ 
+* Estudei e me familiarizei mais com Docker, Rest assured e testes de containers no Spring boot.
+
+* Comecei o desenvolvimento de um site para uma agência de TI focada em desenvolvimento de aplicações web
+
+ 
+
+
+
+
+
+
+
