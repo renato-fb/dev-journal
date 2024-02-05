@@ -1,0 +1,9 @@
+<== O quê foi feito hoje ==>
+ 
+* Me desmistifiquei o GSAP, entendi perfeitamente como ele funciona e estudei o módulo ScrollTrigger para implementar como funcionalidade no site da agência.
+
+
+
+
+
+
