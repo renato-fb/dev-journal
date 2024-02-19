@@ -1,0 +1,8 @@
+<== O quê foi feito hoje ==>
+ 
+* Implementei um modal parecido com o do behance para o cliente poder visualizar as identidades visuais criadas pela agência, isso tudo no site institucional da mesma.
+
+
+
+
+

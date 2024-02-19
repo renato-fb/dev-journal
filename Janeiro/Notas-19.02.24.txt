@@ -1,0 +1,7 @@
+<== O quê foi feito hoje ==>
+ 
+* Fiz algumas atualizações no site da agência de marketing, aprendi mais sobre a biblioteca gsap e scrollmagic, implementei no site uma funcionalidade onde quando o usuário da scroll um video roda de acordo com esse scroll, e foi usada a biblioteca scrollmagic para conseguir fazer isso.
+
+* Comecei o desenvolvimento de um CRM de cadastro de relatórios.
+
+
