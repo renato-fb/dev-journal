@@ -2,7 +2,7 @@
 
 * Me familiarizei mais com sanitização de inputs com o php e MySQL, juntamente com segurança no tópico de injeção sql.
  
-* Continuei o desenvolvimento do sistema de CRM e estudei mais sobre php na prática.
+* Continuei o desenvolvimento do sistema de CRM e aprendi mais sobre php e interações com o banco de dados, mexendo bastante com chaves estrangeiras, relacionamentos entre tabelas e etc.
 
 
 
