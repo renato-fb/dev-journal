@@ -1,0 +1,8 @@
+<== O quê foi feito hoje ==>
+
+* Me familiarizei mais com sanitização de inputs com o php e MySQL, juntamente com segurança no tópico de injeção sql.
+ 
+* Continuei o desenvolvimento do sistema de CRM e estudei mais sobre php na prática.
+
+
+
