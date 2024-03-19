@@ -1,0 +1,13 @@
+<== O quê foi feito hoje ==>
+
+* Passei de puxar dados pela API de localizações IBGE para puxar do banco de dados diretamente dos estados já cadastrados pois o servidor da IBGE estava instável
+
+* Me familiarizei mais com programação funcional e orientada a objetos em PHP
+
+* Construi um sistema de geração de relatórios em PDF puxando dados de uma tabela de acordo com os filtros que o cliente decide aplicar 
+
+* Deixei personalizável o tamanho da fonte da tabela pelo usuário
+
+* Me familiarizei mais com bibliotecas de select e de geração de PDFs em PHP
+
+
