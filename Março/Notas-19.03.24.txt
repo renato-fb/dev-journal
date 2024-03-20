@@ -1,0 +1,10 @@
+<== O quê foi feito hoje ==>
+
+* Otimizei o código do CRM que está em construção e deixei bem mais modularizado de acordo com as melhores práticas
+
+* Me familiarizei muito mais mais com o framework Laravel e o gerenciador de dependências Composer, assim como o php raiz
+
+* Comecei a estudar um sistema de finanças que usa o antigo framework zend pra poder atualizar o mesmo usando tecnologias mais robustas e modernas
+
+
+
