@@ -1,0 +1,15 @@
+<== O quê foi feito hoje ==>
+
+Implementei a geração de logs de erro no sistema CRM inteiro
+Organizei mais a estrutura para respeitar o padrão MVC
+Implementei SoC (separation of concerns) pra modularizar ao máximo o sistema para melhor legibilidade e facilidade de manutenções futuras no código
+
+<== Problemas encontrados ==> 
+
+<== O quê eu aprendi ==>
+
+Aprendi que repared statements previnem injeção SQL porquê separam os queries dos valores inseridos, e os valores são interpretados como variáveis ao invés do valor dos mesmos, diretamente. E as mesmas váriaveis tem seu conteúdo escapado de forma que não possa ser interpretado como consulta.
+
+Aprendi que a maioria dos frameworks em php foram desenvolvidos pensando na modalidade de programação orientada a objetos.
+
+Me familiarizei mais com testes unitários com o php e com prepared statements juntamente com a lógica de lidar com os erros e logs

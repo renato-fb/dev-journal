@@ -1,0 +1,46 @@
+<== O quê foi feito hoje ==>
+
+
+<== Problemas encontrados ==> 
+
+Não consegui instalar o antigo framework zend 3 no projeto php de testes para me familiarizar com a estrutura de um projeto zend, tudo isso porquê e
+
+<== O quê eu aprendi ==>
+
+Me familiarizei mais tanto com o Laravel e sua estrutura quanto como o gerenciador de dependências Composer
+
+Aprendi como faz para trocar a versão do xampp (fiz isso para rodar um projeto com o framework zend, que aceita apenas versões 7.0) 
+
+Aprendi que o JavaScript Vanilla é uma melhor escolha para a manipulação de DOM quando o assunto é JS vs jQuery em 2024, e aqui estão os motivos:
+
+Manutenabilidade:
+
+☑️ Código mais conciso e legível, facilitando a compreensão e modificação futura.
+☑️ Menor necessidade de documentação externa, pois a sintaxe é familiar aos desenvolvedores de JavaScript.
+
+Aprendizagem:
+
+☑️ Ideal para aprofundar o conhecimento em JavaScript puro e dominar seus fundamentos.
+☑️ Facilita a compreensão de frameworks e bibliotecas mais complexas que utilizam JavaScript como base.
+
+Desempenho:
+
+☑️ Menor tempo de carregamento e melhor performance da aplicação web por não ser uma biblioteca externa.
+☑️ Os navegadores modernos são otimizados para interpretar JavaScript Vanilla, resultando em maior eficiência.
+
+Futuro:
+
+☑️ Tecnologia à prova de futuras mudanças, pois é a linguagem base de manipulação do DOM nos navegadores.
+☑️ Menor risco de obsolescência em comparação com bibliotecas que podem ser descontinuadas.
+Similaridade com a sintaxe moderna:
+
+☑️ As evoluções do JavaScript nativo diminuem as diferenças entre Vanilla e jQuery na prototipagem.
+☑️ Funções e funcionalidades nativas do JavaScript se aproximam da sintaxe do jQuery, tornando o Vanilla mais acessível.
+
+Outras vantagens:
+
+☑️ Maior flexibilidade e controle sobre o código.
+☑️ Facilidade de depuração e identificação de erros.
+☑️ Código mais leve e com menor footprint.
+
+^^ Conteúdo gerado com chatGPT, PORÉM apenas melhorado de uma nota já escrita minha
