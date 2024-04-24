@@ -1,0 +1,5 @@
+<== O quê foi feito hoje ==>
+
+Finalizei a construção da página principal de um site institucional de odontologia (wordpress)
+Fiz algumas alterações em um site de freelance, limpei um pouco a base de dados da hospedagem também
+Estudei mais sobre react
