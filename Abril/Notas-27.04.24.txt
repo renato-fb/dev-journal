@@ -1,0 +1,17 @@
+<== O quê foi feito hoje ==>
+
+Estudei de forma extensiva a linguagem React.
+Comprei o dominio do site da apol e propaguei o mesmo para a hospedagem.
+Finalizei o site da associação de oficias da policia civil (apol), subi no ar oficiamente com alguns pequenos ajustes e configurei e otimizei as imagens do site.
+
+<== O quê eu aprendi ==>
+
+Descobri que tem um site onde você consegue checar a propagação do DNS https://www.whatsmydns.net/
+
+== Anotaçãoes para reenforçar o conhecimento ===
+React é uma biblioteca que tem como o propósito principal aplicar reatividade as aplicações web, criando uma experiência dinâmica melhor usada em aplicações web de complexidade mediana-grande. 
+
+Piece of Data = Piece of State.
+
+Um grande positivo de usar React é que o mesmo possui um jeito correto de estruturar seu código, diminuindo as chances do famoso código espaguete, outro grande positivo é que react dá disponibiliza uma forma mais consistente de desenvolver aplicações entre equipes e desenvolvedores.
+
