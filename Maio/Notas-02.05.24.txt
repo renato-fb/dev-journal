@@ -1,0 +1,14 @@
+<== O quê foi feito hoje ==>
+
+Implementei ao já existente painel inserção de imagens na galeria do site de uma forma dinâmica pelo administrador do sistema. Tudo com php, javascript e mysql
+
+Configurei logins de banco de email e de acesso para o cliente
+
+Montei um blog em wordpress com uma interface amigável para outro cliente em um site que eu já finalizei
+
+<== O quê eu aprendi ==>
+
+Me familiarizei melhor com o upload e processamento de arquivos/imagens com o php
+
+
+
