@@ -1,0 +1,34 @@
+<====== O quê foi feito hoje ======>
+
+Fiz diversas alterações no site de uma médica dentista, para que o mesmo já suba para o ambiente de produção
+Estudei javascript e react
+
+<====== Notas de Estudo ======>
+
+==== CURSO JS ==== 
+(Apesar de já ter bastante conhecimento em Javascript decidi pegar um curso do zero pra passar o ferro nos detalhezinhos)
+
+Me familiarizei melhor com operações ternárias e template strings
+
+Javascript era formalmente conhecido como ECMAScript e em 2015 uma grande versão chamada ES6/ES2016 foi lançada, adicionando muitas novas funcionalidades a linguagem. E assim foi decidido que as atualizações fossem lançadas anualmente para que seja mais simples de acompanhar. i.g; ES2017, ES2018, ES2019 e assim vai...
+
+O "motor" do Javascript é muito bem compatível com códigos escritos em versões mais antigas.
+
+Javascript segue o principio de não quebrar a web, ou seja: "Novas versões" são lançadas em um formato que não remove as antigas funcionalidades, ao invés disso ele apenas adiciona, contrário de outras linguagens de programação. Então um jeito justo seria descrever a adição dessas novas funcionalidades de novos lançamentos ao invés de novas versões.
+
+Me familiarizei com o babel, que tem como o propósito de compatibilizar código javascript.
+
+ES5 é compatível com todas os navegadores até o IE 9 de 2011.
+
+ES6 (lançado em 2015) para ES2020 é chamado de ES+, agora ES2021 para cima é chamado de ESNext.
+
+Finalizei a primeira seção do Javascript Fundamentals.
+
+O 'use strict' implementa restrições mais rigosas, habilita a exibição de erros, evita erros silenciosos, evita comportamentos idesejados e promove um código mais limpo.]
+
+Parâmetro é o placeholder que é confundido como o argumento da função, só após esse placeholder ser preenchido na chamada da função ele é considerado um argumento.
+
+Existem 2 tipos de função, a expressiva e a declarativa, a declarativa é o convencional function nome(){}, já a expressiva é onde a função é armazenada como uma variável e tipo assim: const variavel = function (parametro) {}, a diferença é que a função expressiva não pode ser chamada antes de sua inicialização e a declarativa pode, e isso acontece por conta de um processo chamado hoisting. (Na minha opinião a função declarativa deve ser usada em um contexto onde eu quero disponibilizar o uso da mesma em um escopo global, e a função expressiva já deve ser usada onde eu queria um código mais limpo e manter o escopo limitado por conta do fato dela ser disponível para uso apenas depois de ser declarada).
+
+
+
