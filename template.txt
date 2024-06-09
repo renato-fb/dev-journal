@@ -1,0 +1,17 @@
+<== O quê foi feito hoje ==>
+
+* Item 1
+* Item 2
+* Item 3
+
+<== Problemas encontrados ==> 
+
+* Item 1
+* Item 2
+* Item 3
+
+<== O quê eu aprendi ==>
+
+* Item 1
+* Item 2
+* Item 3
