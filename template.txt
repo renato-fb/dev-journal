@@ -1,17 +1,25 @@
-<== O quê foi feito hoje ==>
+Date: 
 
-* Item 1
-* Item 2
-* Item 3
+<== What Got Done ==>
 
-<== Problemas encontrados ==> 
+* 1st item
+* 2nd item
+* 3rd item
 
-* Item 1
-* Item 2
-* Item 3
+...
 
-<== O quê eu aprendi ==>
+<== Problems Encountered ==> 
 
-* Item 1
-* Item 2
-* Item 3
+* 1st item
+* 2nd item
+* 3rd item
+
+...
+
+<== What I learnt ==>
+
+* 1st item
+* 2nd item
+* 3rd item
+
+...
