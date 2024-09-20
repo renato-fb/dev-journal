@@ -1,0 +1,15 @@
+<== O quê foi feito hoje ==>
+
+Montei a lógica que vai envolver o futuro consumo e processamento de dados de uma API de uma empresa de energia solar e os dados de seus clientes.
+
+Construi uma página de cadastro de adesões de clientes e consultores 
+
+
+<== Problemas encontrados ==> 
+
+<== O quê eu aprendi ==>
+
+Melhorei meu compreendimento quando o assunto é consumo e processamento de APIs e das funcionalidades presentes para fazer o mesmo tanto no jQuery como no Javascript.
+
+
+

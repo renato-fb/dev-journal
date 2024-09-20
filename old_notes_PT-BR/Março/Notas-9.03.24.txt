@@ -1,0 +1,15 @@
+<== O quê foi feito hoje ==>
+
+* Melhorei o código dos scripts sql, coloquei em apenas 1 select toda a exibição da tabela através dos JOINs
+
+* Fiz a máscara de todos os inputs
+
+* Montei a exibição todos os dados na tabela 
+
+* Implementei um botão que limpa o banco de dados inteiro (apenas para debug)
+
+* Criei um script de funções apenas (functions.php) onde as funções serão chamadas
+
+* Renomeei os arquivos para uma nomeclatura mais adequada
+
+* Montei a pesquisa AJAX para todos os campos no Painel

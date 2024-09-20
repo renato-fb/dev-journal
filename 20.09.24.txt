@@ -1,0 +1,21 @@
+Date: 20.09.24
+
+<== What Got Done ==>
+
+* Today is the day I decided that I should keep logging my dev journey, but in English, which is the most appropriate language for a Brazilian dev to document his progress (in my opinion).
+* I improved the code behind the report generation section of an ERP system by improving its readability with modularization (includes() in PHP).
+* I created a new panel which contains a table that is fully interactable and accessible only by the system's admin,  and by interactable i mean the full CRUD (create, read, update, delete), this table contains the business logic layer that is taken into account as a deciding fator in many processes within the system, all using a library called tabulator in PHP alongside MySQL.
+
+...
+
+<== Problems Encountered ==> 
+
+* I deployed a new version of the ERP I've been working on and began testing HTTP requests. During this process, I noticed that the incoming data was outdated and did not match the actual database. After running several tests, I concluded that the web server was using some sort of cache. My investigation confirmed it was Nginx. Once I disabled the cache, everything worked smoothly.
+
+...
+
+<== What I learnt ==>
+
+* I became more familiar with command line interfaces (CLIs) by creating several file structures and populating them with files solely through the terminal.
+
+...

@@ -1,0 +1,5 @@
+<== O quê foi feito hoje ==>
+
+Continuei o desenvolvimento de uma nova camada de adesão na plataforma de energia solar e fiz algumas melhorias no código, seguindo a técnica TDD.
+
+

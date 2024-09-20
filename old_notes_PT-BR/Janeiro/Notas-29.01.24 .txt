@@ -1,0 +1,18 @@
+<== O quê foi feito hoje ==>
+ 
+* Continuei a construção de um site institucional de uma agência de marketing digital e desenvolvimento de aplicações web.
+
+<== O quê aprendi hoje ==>
+
+* Me familiarizei muito mais com pseudoelementos na hora de estilizar o site.
+
+* Aprendi sobre a biblioteca GSAP e os scrolltriggers para fazer algumas animações top no site.
+
+* Aprendi como incluir exatamente apenas as folhas de estilização Boostrap que vão ser usadas no arquivo do site localmente tanto quanto via cdn.
+
+
+
+
+
+
+

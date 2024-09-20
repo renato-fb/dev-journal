@@ -1,0 +1,13 @@
+<== O quê foi feito hoje ==>
+ 
+* Me familiarizei muito mais com o GSAP, implementei novas funcionalidades no site como um carrossel que é ativado com um scrollTrigger que trava a seção na tela do usuário até ele chegar a certo ponto do scroll, mostrando assim todo o carrossel e deixando ele ir pra outra seção no fim.
+
+* Criei um marquee do zero com CSS que funciona perfeitamente em todas resoluções e tem um loop impecável.
+
+* Fiz alterações em um site wordpress para adicionar um usuário novo e configurei o mesmo pra ter acesso a apenas a certas funcionalidades no painel do wordpress.
+
+
+
+
+
+

@@ -1,0 +1,12 @@
+<== O quê foi feito hoje ==>
+
+* Continuei o desenvolvimento de uma landing page de campanha;
+ - Me familiarizei pela primeira vez com uma biblioteca de Parallax para fazer um efeito bacana.
+ - Ajustei o responsivo do 4k até o iPhone mais antigo de viewport mais desatualizado.
+ - Configurei o disparo de email de um formulário para o webmail da hospedagem com a biblioteca PHPMailer.
+ - Montei também o registro das informações passadas no mesmo formulário só que no banco de dados.
+
+* Finalizei a configuração de content negotiation da minha API de livros em Spring Boot.
+
+
+

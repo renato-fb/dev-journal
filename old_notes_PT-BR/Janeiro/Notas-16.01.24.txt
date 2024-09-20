@@ -1,0 +1,18 @@
+<== O quê foi feito hoje ==>
+
+* Arrumei um problema com a transferência de hospedagem de um site wordpress
+ - O plugin que eu tipicamente utilizo para exportar sites inteiros não conseguia completar a importação de um servidor para o outro, então montei um ambiente de desenvolvimento local com o xampp e usei uma versão mais antiga do plugin na hora de instalar o mesmo, importei o backup para esse servidor local, funcionou tudo certo e depois exportei para o servidor no ar, e deu tudo certo também.
+ 
+* Arrumei alguns links no arquivo html exibido no webmail quando um formulário de contato é disparado.
+
+* Finalizei o responsivo do footer de um site one page para uma advogada.
+
+* Me familiarizei mais com testes unitários em uma aplicação spring boot 
+ 
+
+
+
+
+
+
+

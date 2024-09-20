@@ -1,0 +1,21 @@
+<== O quê foi feito hoje ==>
+
+Consertei um problema no site da apol na sua hospedagem nova onde eu me familiarizei mais com as aspas no php, o problema era que a senha do usuario no banco de dados estava entre aspas simples '', e em algum lugar da senha tinha um cifrão, que é interpretado como um identificador de variaveis no php, e por conta disso toda vez que eu tentava logar no sistema o servidor retornava 500, descobri também que a exibição de erros estava desabilitada nas configurações de php no servidor, habilitei tanto ela quanto a geração do log de erros.
+
+Montei um mini cms para que seja possível a inserção de notícias de uma forma dinâmica pelo administrador do sistema
+
+<== O quê eu aprendi ==>
+
+Me familiarizei com uma nova biblioteca de editor de textos chamada froala e gostei bastante, me facilitou muito a vida
+
+Me familiarizei mais com os plugins de tabela e de campos personalizados no wordpress
+
+== Anotações para reforçar o conhecimento ===
+
+Em PHP, aspas duplas permitem que o conteúdo dentro delas seja tratado de forma literal. 
+i.g; 
+$nome = 'Renato';
+echo 'Nome: $nome'; é "echoado" como Nome: $nome.
+Agora com aspas duplas o assunto é diferente, o conteúdo inserido dentro delas permite mais interpretação, como caracteres especiais do tipo \n (quebra linhas) ou até mesmo as próprias váriaveis.
+i.g; echo "Nome: \n $nome"; é "echoado" como Nome: (quebra de linha) Renato. 
+

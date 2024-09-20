@@ -1,0 +1,16 @@
+<== O quê foi feito hoje ==>
+ 
+* Me familiarizei com a utilização do Docker, assisti algumas aulas e coloquei na prática a utilização do Docker para poder fazer testes de containers junto com o rest assured na minha API 
+
+* Estudei e me familiarizei mais com Docker, Rest assured e testes de containers no Spring boot.
+
+* Comecei o desenvolvimento de um site para uma agência de TI focada em desenvolvimento de aplicações web
+
+ 
+
+
+
+
+
+
+

@@ -1,0 +1,11 @@
+<== O quê foi feito hoje ==>
+ 
+* Continuei o desenvolvimento do sistema de CRM e estudei mais sobre php na prática.
+
+* Construi do zero um sistema de login com banco de dados usando php, MySQL, html, css e javascript
+
+* Montei um portfólio no workana pra conseguir alguns freelances de lado.
+
+* Me familiarizei mais com as funções AJAX no javascript.
+
+

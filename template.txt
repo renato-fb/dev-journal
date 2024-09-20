@@ -1,0 +1,25 @@
+Date: 
+
+<== What Got Done ==>
+
+* 1st item
+* 2nd item
+* 3rd item
+
+...
+
+<== Problems Encountered ==> 
+
+* 1st item
+* 2nd item
+* 3rd item
+
+...
+
+<== What I learnt ==>
+
+* 1st item
+* 2nd item
+* 3rd item
+
+...

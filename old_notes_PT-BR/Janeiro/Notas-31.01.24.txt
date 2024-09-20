@@ -1,0 +1,9 @@
+<== O quê foi feito hoje ==>
+ 
+* Encontrei alguns problemas na hora de importar uma biblioteca no site da agência, e foi porquê o CDN que eu estava pegando não estava funcionando, o motivo para isso é que o servidor do próprio estava fora do ar, mas descobri mandando o link direto no navegador, a solução foi procurar outra versão que se encontrava no ar.
+
+
+
+
+
+

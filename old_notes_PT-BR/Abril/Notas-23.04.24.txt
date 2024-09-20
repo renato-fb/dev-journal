@@ -1,0 +1,5 @@
+<== O quê foi feito hoje ==>
+
+Fiz mais algumas alterações em um site de freelance, comprei o dominio e a hospedagem e configurei ambos
+Estudei um pouco mais sobre react
+
