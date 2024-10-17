@@ -1,0 +1,16 @@
+Date: 17.10.24
+
+<== What Got Done ==>
+
+* I continued the development of a web application that displays coupons and promotions across the web, it involves database interaction and i'm building it with raw php and some javascript libraries
+...
+
+<== Problems Encountered ==> 
+
+...
+
+<== What I learnt ==>
+
+* Today i learnt that PDO instances in PHP automatically closes the database connection as soon as the PHP script ends, contrary to a mysqli instance which you have to specifically make sure the database connection is closed through close().
+
+...
